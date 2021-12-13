@@ -10,7 +10,8 @@ Back-end : PHP
 
 Database : MySQL
 
-Database has two Tables:- Users Table & Transaction Table
+Database has two Tables:- Users Table & Transaction 
+
 1.User table have basic fields such as name, email & current balance.
 
 2.Transaction table has sender, receiver, amount transfered & sender_balance. 
