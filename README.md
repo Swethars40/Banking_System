@@ -10,10 +10,11 @@ Back-end : PHP
 
 Database : MySQL
 
-Database has two Tables:
+Database has two Tables:  
       Users Table & Transaction Table
 
-User table have basic fields such as name, email & current balance.
-Transaction table records all money transfers happened.
+      1.User table have basic fields such as name, email & current balance.
+      
+      2.Transaction table has sender, receiver, amount transfered & sender_balance. It records all money transfers happened between the customers.
 
 Flow: Home Page > View all Users > Select and View one User > Transfer Money > View all Users > View Transfer History.
